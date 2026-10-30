@@ -1,7 +1,5 @@
-[![General Statistics](https://gitcard-studio.creativecode.com.co/api/stats?username=oguzzkd&theme=tokyonight&card_width=100%25&locale=en&preview=true)](https://gitcard-studio.creativecode.com.co/?user=oguzzkd&theme=tokyonight)
+![GitHubCard](https://githubcard.com/oguzzkd.svg?d=0PbaE0MnCQUv)
 
-[![Top Repositories](https://gitcard-studio.creativecode.com.co/api/top-repos?username=oguzzkd&theme=tokyonight&locale=en&preview=true)](https://gitcard-studio.creativecode.com.co/?user=oguzzkd&theme=tokyonight) 
+[![Data-Science-Club-ELTE/MOL-BUBI-Analysis's GitHubCard](https://githubcard.com/Data-Science-Club-ELTE/MOL-BUBI-Analysis.svg?d=ph1dVwyRnF5f)](https://githubcard.com/Data-Science-Club-ELTE/MOL-BUBI-Analysis/card?utm_source=github&utm_medium=readme)
 
-[![Most Used Languages](https://gitcard-studio.creativecode.com.co/api/languages?username=oguzzkd&theme=tokyonight&locale=en&preview=true)](https://gitcard-studio.creativecode.com.co/?user=oguzzkd&theme=tokyonight)
-
-[![Commit Activity Matrix](https://gitcard-studio.creativecode.com.co/api/commit-activity?username=oguzzkd&theme=dark&locale=en&preview=true)](https://gitcard-studio.creativecode.com.co/?user=oguzzkd&theme=dark)
+[![oguzzkd/multi-chatroom's GitHubCard](https://githubcard.com/oguzzkd/multi-chatroom.svg?d=uerWTVfry0VO)](https://githubcard.com/oguzzkd/multi-chatroom/card?utm_source=github&utm_medium=readme)
